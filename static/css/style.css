@@ -1,3 +1,67 @@
 body{
-    background-image: url("")
+    background-image: url("/static/images/backpizza1.jpg");
+    
 }
+
+.welcome h1{
+    font-family: 'Pacifico';
+    font-size: 100px;
+    color: goldenrod;
+    text-align: center;
+    padding-top: 7%;
+}
+.multicolortext {
+    background-image: linear-gradient(to left, goldenrod, blue, goldenrod);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .welcome h3{
+      color: goldenrod;
+      font-size: 50px;
+      text-align: center;
+      font-family: Great Vibes;
+  }
+  .menu {
+    margin-top: 5%;
+    padding: 0;
+  }
+  
+
+#menu {
+    font-family: sans-serif;
+    color: olivedrab;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.menu-overlay {
+    height: inherit;
+    width: inherit;
+    background-color: rgba(36, 33, 33, 0.7);
+}
+figcaption{
+    margin-top: 2%;
+    font-size: 20px;
+}
+  .types{
+      background-color: grey;
+      margin-top: 5%;
+      border-radius: 10px;
+      margin: 5% 5% 0 5%;
+      justify-content: center;
+      align-items: center;
+  }
+  form{
+      
+  }
+  button{
+      margin: 5% 0 5% 0;
+      
+  }
+  label{
+      color:maroon;
+      font-size: 24px;
+  }
+  
