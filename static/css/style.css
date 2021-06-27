@@ -24,8 +24,8 @@ body{
       font-family: Great Vibes;
   }
   .menu {
-    margin-top: 5%;
-    padding: 0;
+    margin: 5% 5% 0 5%;
+    
   }
   
 
@@ -40,6 +40,7 @@ body{
     height: inherit;
     width: inherit;
     background-color: rgba(36, 33, 33, 0.7);
+    border-radius: 10px;
 }
 figcaption{
     margin-top: 2%;
@@ -52,15 +53,26 @@ figcaption{
       margin: 5% 5% 0 5%;
       justify-content: center;
       align-items: center;
-      
+
   }
   
   button{
       margin: 5% 0 5% 0;
       
   }
+  #order-pizza{
+      color: olivedrab;
+  }
   label{
       color:maroon;
       font-size: 24px;
   }
-  
+    
+  .order-summary{
+      background-color: black;
+      height: 50vh;
+      margin: 5% 5% 0 5%;
+      border-radius: 15px;
+      color: olivedrab;
+  }
+ 
