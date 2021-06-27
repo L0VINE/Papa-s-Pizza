@@ -24,7 +24,7 @@
     -If the user wants a delivery,prompt the user to enter location details and price for delivery.
     -On checkout,show the user the total amount payable.
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](https://l0vine.github.io/Akan-Names/)
+    Deployed project can be accessed here -  [Papa's Pizza](https://l0vine.github.io/Papa-s-Pizza/)
 ​
 ## Technologies used
     - HTML
