@@ -76,3 +76,27 @@ figcaption{
       color: olivedrab;
   }
  
+  .cdata {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.data {
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+}
+#deli{
+    width :10%;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 0.5% 0 0.5% 0;
+    text-align: center;
+}
+#delinot{
+    width :10%;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 0.5% 0 0.5% 0;
+    text-align: center;
+}
