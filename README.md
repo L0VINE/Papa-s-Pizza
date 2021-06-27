@@ -2,20 +2,27 @@
     - Papa's Pizza
 ​
 ## Project description
-    -
+    -This is a project on a pizza eatery website where customers can place orders and get them delivered.
 ​
 ## Author(s) information
     - Cynthia Lovine
   
 ## Setup instructions
-    - Download Booststrap 
-    -Install git 
-    -Download the code Run it from vs code in any web browser
+    - Download a zip file of the project.
+    -Extract the files
+    -Open index.html in a browser
+    -Link to live website
 
 ​
 ## BDD
     
-​The website will require a user to fill out information about his date of birth and the year he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user.
+​The website is expected to function as follows:
+
+    -Give the user somewhere to choose the size of pizza they want.
+    -Allow the user to input the type of crust they want.Different crust may have different sizes.
+    -Allow the user to decide the toppings they want.
+    -If the user wants a delivery,prompt the user to enter location details and price for delivery.
+    -On checkout,show the user the total amount payable.
 ## Live link
     Deployed project can be accessed here -  [Akan Names Generator](https://l0vine.github.io/Akan-Names/)
 ​
@@ -24,7 +31,7 @@
     -BOOTSTRAP
     - CSS
     - JS
-  
+    -JQUERY
 ## Contact information
     - cynthia.lovine@student.moringaschool.com
   
