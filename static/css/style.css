@@ -1,6 +1,5 @@
 body{
-    background-image: url("/static/images/backpizza1.jpg");
-    
+    background-image: url("../images/backpizza1.jpg");
 }
 
 .welcome h1{
